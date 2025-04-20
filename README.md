@@ -1,6 +1,3 @@
-# Password-Manager-CLI
-A command-line password manager built with core Python and encryption.
-
 # 🔐 Password Manager CLI (Python)
 A secure command-line password manager built in core Python with AES encryption.
 
